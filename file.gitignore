@@ -1,0 +1,13 @@
+# Кэш Python
+__pycache__/
+*.py[cod]
+
+# Окружение и IDE
+.vscode/
+.idea/
+venv/
+.env
+
+# Аудио/системные
+*.wav
+.DS_Store
